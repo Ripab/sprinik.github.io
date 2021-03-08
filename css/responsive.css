@@ -1,0 +1,183 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+  .main-menu .logo-area .input-area input[type="text"] {
+    width: 86%;
+  }
+  .main-section .filter-area .filter-details .item-area .range-slider span {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-block;
+  }
+  .main-section .filter-area .filter-details .item-area input[type=number] {
+    width: 40%;
+  }
+  .main-section .right-side .top-jobs-area .single-item span {
+    position: relative;
+    text-align: right;
+    color: #1877f2;
+    font-size: 13px;
+    font-weight: 600;
+    right: 0;
+  }
+  .main-section .single-feed-area .text-mathod ul li {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .main-menu {
+    display: none;
+  }
+  .responsive-menu-area {
+    display: block;
+    padding: 15px 0;
+    background-color: #1877f2;
+  }
+  .responsive-menu-area .prot-img {
+    width: 38px;
+    border-radius: 40px 50px 50px 45px;
+    text-align: center;
+    margin: auto;
+    left: 0;
+  }
+  .responsive-menu-area .logo-area {
+    position: relative;
+    text-align: left;
+  }
+  .menu-shrink {
+    display: none;
+  }
+  .mean-container .mean-bar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    float: left;
+    position: absolute;
+    width: 100%;
+    z-index: 999999;
+    top: 58px;
+    right: 0;
+  }
+  .mean-container .mean-nav {
+    background: #1877f2 none repeat scroll 0 0;
+    float: left;
+    margin-top: 0;
+    width: 100%;
+  }
+  .mean-container a.meanmenu-reveal {
+    border: 1px solid #fff;
+    color: #fff;
+    top: -13px;
+    right: 15px !important;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #fff none repeat scroll 0 0;
+  }
+  .mean-container .mean-nav ul li a {
+    padding: 20px 5%;
+  }
+  .main-section .filter-area .filter-details .item-area .range-slider span {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-block;
+  }
+  .main-section .filter-area {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+  }
+  .main-section .single-feed-area .tag-area ul li {
+    line-height: 40px;
+  }
+  .footer-area ul li {
+    line-height: 40px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .main-menu {
+    display: none;
+  }
+  .responsive-menu-area {
+    display: block;
+    padding: 15px 0;
+    background-color: #1877f2;
+  }
+  .responsive-menu-area .prot-img {
+    width: 38px;
+    border-radius: 40px 50px 50px 45px;
+    text-align: center;
+    margin: auto;
+    left: 0;
+  }
+  .responsive-menu-area .logo-area {
+    position: relative;
+    text-align: left;
+  }
+  .menu-shrink {
+    display: none;
+  }
+  .mean-container .mean-bar {
+    background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+    float: left;
+    position: absolute;
+    width: 100%;
+    z-index: 999999;
+    top: 58px;
+    right: 0;
+  }
+  .mean-container .mean-nav {
+    background: #1877f2 none repeat scroll 0 0;
+    float: left;
+    margin-top: 0;
+    width: 100%;
+  }
+  .mean-container a.meanmenu-reveal {
+    border: 1px solid #fff;
+    color: #fff;
+    top: -13px;
+    right: 15px !important;
+  }
+  .mean-container a.meanmenu-reveal span {
+    background: #fff none repeat scroll 0 0;
+  }
+  .mean-container .mean-nav ul li a {
+    padding: 20px 5%;
+  }
+  .main-section .filter-area .filter-details .item-area .range-slider span {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    display: inline-block;
+  }
+  .main-section .filter-area {
+    background-color: #ffffff;
+    margin-bottom: 30px;
+  }
+  .main-section .single-feed-area .tag-area ul li {
+    line-height: 40px;
+  }
+  .footer-area ul li {
+    line-height: 40px;
+  }
+  .details-feed-area .title h2 {
+    font-size: 22px;
+    color: #1877f2;
+    font-weight: 600;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+  }
+  .comment-area .single-comment .img {
+    position: relative;
+  }
+  .comment-area .single-comment .text {
+    margin-left: 0;
+    margin-top: 15px;
+  }
+  .comment-area .single-comment .text p {
+    margin-bottom: 5px;
+    font-size: 14px;
+  }
+  .details-feed-area .tag-area ul li {
+    line-height: 40px;
+  }
+}
+/*# sourceMappingURL=responsive.css.map */
